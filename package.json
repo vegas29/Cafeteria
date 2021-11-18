@@ -1,0 +1,47 @@
+{
+  "name": "project-tu-aula",
+  "version": "1.0.0",
+  "description": "Frontend de App Tu Aula - Modulo Parametrizacion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrontendTeam29/TuAula.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "JS",
+    "JQUERY",
+    "SASS",
+    "GULP"
+  ],
+  "author": "Diego Alejandro Perdomo Montealegre y Jorge Ivan Duque Leal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrontendTeam29/TuAula/issues"
+  },
+  "homepage": "https://github.com/FrontendTeam29/TuAula#readme",
+  "dependencies": {
+    "gulp-cli": "^2.3.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.3.6",
+    "cssnano": "^5.0.8",
+    "gulp": "^4.0.2",
+    "gulp-avif": "^1.0.1",
+    "gulp-imagemin": "^7.0.0",
+    "gulp-postcss": "^9.0.1",
+    "gulp-sass": "^5.0.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-webp": "^4.0.1",
+    "postcss": "^8.3.8",
+    "sass": "^1.42.1"
+  },
+  "browserslist": [
+    "last 1 version",
+    "> 1%"
+  ]
+}
