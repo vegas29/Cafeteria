@@ -1,5 +1,6 @@
-@use 'variables' as v;
-@use 'mixins' as m;
+@use 'base/variables' as v;
+@use 'base/mixins' as m;
+
 .text-center{
     text-align: center;
 }
@@ -12,6 +13,11 @@
     margin-top: -10rem;
 }
 
+.padding-bottom-0{
+    padding-bottom: 0;
+}
+
 .bg-white{
     background-color: v.$blanco;
 }
+
